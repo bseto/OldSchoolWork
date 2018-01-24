@@ -1,0 +1,10 @@
+**NOTE** Open the .txt file with Notepad++ or Eclipse as notepad doesn't display properly
+Byron's CPSC Assignment 4 Graph Traversals for Dijkstra's
+---------------------------------------------------------------------
+0, 10, 
+5, 4, 11, 
+3, 5, 
+9, 10, 4, 2, 
+10, 4, 2, 3, 
+11, 5, 4, 7, 
+
